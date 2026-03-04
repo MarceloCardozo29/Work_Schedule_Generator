@@ -1,4 +1,4 @@
-package io.github.mcardozo.escala.domain;
+package io.github.mcardozo.escala.domain.enums;
 
 
 public enum DayType {
