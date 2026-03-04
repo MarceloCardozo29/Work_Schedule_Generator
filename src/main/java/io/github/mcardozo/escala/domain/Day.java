@@ -1,5 +1,7 @@
 package io.github.mcardozo.escala.domain;
 
+import io.github.mcardozo.escala.domain.enums.DayType;
+
 import java.time.LocalDate;
 import java.util.Objects;
 
